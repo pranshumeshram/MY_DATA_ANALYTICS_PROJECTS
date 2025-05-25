@@ -1,6 +1,8 @@
 INTRODUCTION OF COMPANY 
 - Nirula's is a well-known Indian food and beverage company, famous for its fast food, ice creams, Burgers, Pizzas. it is one of India’s oldest and most loved B2C (Business-to-Consumer) brands, serving millions of  customers through its channels. Currently it has more than 60 outlets and other distribution channels across India and have a large SKUs in the industry.
 
+https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/3.%20ADVANCE%20LEVEL%20Nirula's%20Data%20Analytics%20Project/Picture%20of%20the%20dashboard%20Nirula's.jpg
+
 BUSINESS PROBLEM & CLIENT’S REQUIREMENTS 
 - The client requires a comprehensive and interactive Business Intelligence dashboard to monitor and enhance Nirula’s financial and operational performance. They want to gain a clear understanding of how different products contribute to revenue and profitability, and how factors like pricing and sales volume affect overall business performance.
 
