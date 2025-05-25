@@ -1,4 +1,4 @@
-## NIRULA'S PROJECT REPORT
+## -------------------------------------- NIRULA'S PROJECT -------------------------------------------
 
 ## INTRODUCTION OF COMPANY 
 - Nirula's is a well-known Indian food and beverage company, famous for its fast food, ice creams, Burgers, Pizzas. it is one of India’s oldest and most loved B2C (Business-to-Consumer) brands, serving millions of  customers through its channels. Currently it has more than 60 outlets and other distribution channels across India and have a large SKUs in the industry.
