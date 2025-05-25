@@ -121,3 +121,7 @@ Analysis of how product pricing and sales volume affect profitability
 Scatter plots and comparison visuals showing NR & GP Variance
 
 Matrix showing price shift, volume shift, and resulting profit variance
+
+
+CONCLUSION
+This project showcases how Data Analytics tools like excel, SQL and Power BI can be used to transform raw business data into meaningful insights. The dashboard provides Nirula’s with a centralized view of their financial and operational performance, enabling better decision-making and strategic planning. By tracking key metrics, analyzing product and outlet-level data, and identifying areas for improvement, this report serves as a valuable tool for business optimization.
