@@ -120,11 +120,11 @@ Donut charts and bar charts showing category contribution
 
 Filters to view SKU and outlet-level data
 
-## 6. PARETO ANALYSIS (3 LEVELS)
+## 6. 80-20 ANALYSIS (3 LEVELS)
 
 Cumulative contribution charts to identify top SKUs, outlets, and months
 
-80/20 analysis to focus on highest impact areas
+PARETO analysis to focus on highest impact areas
 
 ## 7. PRICE VOLUME MIX AND VARIANCE ANALYSIS
 
