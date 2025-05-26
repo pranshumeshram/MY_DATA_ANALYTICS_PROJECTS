@@ -24,7 +24,7 @@ This includes:
 
 - Created Project Charter & PID.
  
-- Performed exploratory data analysis to uncover key trends, patterns, and anomalies in EatSure’s order and financial data.
+- Performed exploratory data analysis to uncover key trends, patterns, and anomalies.
 
 - Conducted Data Wrangling and Data Preprocessing.
 
