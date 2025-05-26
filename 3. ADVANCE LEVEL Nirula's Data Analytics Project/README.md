@@ -37,6 +37,8 @@
 
 ## WORK DONE IN THIS PROJECT
 
+- Created Project Charter & PID.
+
 - Performed Exploratory Data Analysis (EDA) to understand patterns, trends, and detect outliers in the raw data
 
 - Conducted normalization and data cleaning, remove inconsistencies, and standardize the dataset.
@@ -49,8 +51,8 @@
 
 - Designed and developed an interactive Power BI dashboard with filters, drill-downs, Bookmarks, Buttons and visuals for financial and operational analysis
 
-## DATA MODELLING - STAR SCHEMA 
-![Nirula's Data Modelling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/3.%20ADVANCE%20LEVEL%20Nirula's%20Data%20Analytics%20Project/Data%20Modelling%20of%20NIRULA'S.jpg)
+## DATA MODELING - STAR SCHEMA 
+![Nirula's Data Modeling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/3.%20ADVANCE%20LEVEL%20Nirula's%20Data%20Analytics%20Project/Data%20Modelling%20of%20NIRULA'S.jpg)
 
 ## TOOLS USED
 
@@ -61,7 +63,7 @@ Python – Used for exploratory data analysis (EDA) to understand data patterns,
 Power BI – Used for writing DAX measures, building a clean star schema data model, and designing interactive dashboards and visuals.
 
 
-## KEY KPIs IN THIS DASHBOARD
+## KEY KPIs IN THIS DASHBOARD (Financial, operational, and strategic KPIs)
 
 Total Revenue
 
@@ -77,7 +79,7 @@ YTD Revenue
 
 YoY and MoM Performance Changes
 
-Top and Bottom Performing Products and Outlets
+Top and Bottom Performing Products and Outlets etc.
 
 ## DASHBOARD PAGES AND MAIN CHARTS
 
