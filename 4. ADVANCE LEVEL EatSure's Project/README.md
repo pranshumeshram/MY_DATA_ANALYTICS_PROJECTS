@@ -3,7 +3,7 @@
 ## INTRODUCTION OF COMPANY 
 - The EatSure is a one of the leading player in the food delivery industry, connecting restaurants with customers through a technology-driven platform. It operates across multiple location, handling Millions of orders while optimizing logistics, restaurant partnerships, and customer experience.
 
-![Eatsure summary page](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/4.%20ADVANCE%20LEVEL%20EatSure's%20Project/Summary%20Page%20of%20EatSure.png)
+![Eatsure summary page](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/Summary%20Page_eatsure.png)
 ## BUSINESS PROBLEM & CLIENT’S REQUIREMENTS 
 - EatSure is seeking a comprehensive Business Intelligence solution to better understand and improve its operational and financial performance across various cities and distribution channels. With millions of orders processed across multiple restaurant partners and regions, the company faces challenges in identifying key performance drivers, controlling logistics costs, and delivering a consistent customer experience.
 To address these challenges, the client requires a centralized BI Report that provides visibility into critical business metrics and supports data-driven decision-making. The primary goals are to improve overall profitability, enhance delivery efficiency, and optimize customer satisfaction by tracking and acting on key performance indicators (KPIs).
@@ -41,7 +41,7 @@ This includes:
 
 
 ## DATA MODELING - STAR SCHEMA 
-![Nirula's Data Modeling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/4.%20ADVANCE%20LEVEL%20EatSure's%20Project/Data%20Modeling%20of%20EatSure.png)
+![EatSure Data Modeling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/Data%20Modeling_eatsure.png)
 
 ## TOOLS USED
 
@@ -111,3 +111,12 @@ Helps understand revenue impact driven by pricing strategy
 
 ## CONCLUSION
 This Report offers EatSure a centralized platform to monitor financial performance, delivery efficiency, and customer behavior in real time. By tracking advanced KPIs, analyzing order trends, and evaluating fulfillment and cancellation patterns, the report empowers the business to make data-driven decisions. These insights help optimize delivery workflows, improve customer satisfaction, reduce operational costs, and boost overall profitability. The interactive dashboard serves as a strategic tool to support informed planning, streamline logistics, and drive sustainable growth in a highly competitive food delivery market. This project demonstrates how data analytics tools like Excel, Python, and Power BI can be used to convert raw operational and order data into meaningful & actionable business insights.
+
+
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/FA_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/OC_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/RP_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/RA_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/RM_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/OF_eatsure.jpg)
+![EatSure ](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/PVM_eatsure.jpg)
