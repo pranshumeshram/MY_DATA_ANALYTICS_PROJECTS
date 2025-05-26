@@ -41,7 +41,7 @@
 
 - Performed Exploratory Data Analysis (EDA) to understand patterns, trends, and detect outliers in the raw data
 
-- Conducted normalization and data cleaning, remove inconsistencies, and standardize the dataset.
+- Conducted data normalization and data cleaning, reduce redundancy, remove inconsistencies, and standardize the dataset.
 
 - Built a complete ETL (Extract, Transform, Load) pipeline.
 
