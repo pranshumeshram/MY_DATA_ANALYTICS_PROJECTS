@@ -51,6 +51,9 @@
 
 - Designed and developed an interactive Power BI dashboard with filters, drill-downs, Bookmarks, Buttons and visuals for financial and operational analysis
 
+## DATA MODELLING - STAR SCHEMA 
+![Nirula's Data Modelling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/3.%20ADVANCE%20LEVEL%20Nirula's%20Data%20Analytics%20Project/Data%20Modelling%20of%20NIRULA'S.jpg)
+
 ## TOOLS USED
 
 Microsoft Excel – Used for data transformation and normalization before loading into the BI environment.
@@ -138,4 +141,5 @@ Matrix showing price shift, volume shift, and resulting profit variance
 
 
 ## CONCLUSION
-This project showcases how Data Analytics tools like excel, SQL and Power BI can be used to transform raw business data into meaningful insights. The dashboard provides Nirula’s with a centralized view of their financial and operational performance, enabling better decision-making and strategic planning. By tracking key metrics, analyzing product and outlet-level data, and identifying areas for improvement, this report serves as a valuable tool for business optimization.
+
+This project demonstrates how data analytics tools like Excel, SQL, and Power BI can transform raw business data into actionable insights. The dashboard provides Nirula’s with a centralized view of financial and operational performance, enabling data-driven decision-making and strategic planning. By tracking key metrics, analyzing product and outlet-level trends, and identifying areas for improvement, this report serves as a powerful tool for business optimization. Additionally, the dashboard delivers real-time analytics to enhance efficiency, reduce costs, and boost profitability. Through advanced KPIs, the company can make informed decisions, drive sustainable growth, and maintain a competitive edge.
