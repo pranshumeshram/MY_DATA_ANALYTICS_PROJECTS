@@ -5,7 +5,8 @@
 
 ![Eatsure summary page](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/4.%20ADVANCE%20LEVEL%20EatSure's%20Project/Summary%20Page%20of%20EatSure.png)
 ## BUSINESS PROBLEM & CLIENT’S REQUIREMENTS 
-- We are looking for the Key metrics of the company and Business Intelligence Dashboard, to improve business profitability, optimize customer experience by tracking KPIs and Optimized logistics workflows to reduce delivery time.
+- EatSure is seeking a comprehensive Business Intelligence solution to better understand and improve its operational and financial performance across various cities and distribution channels. With millions of orders processed across multiple restaurant partners and regions, the company faces challenges in identifying key performance drivers, controlling logistics costs, and delivering a consistent customer experience.
+To address these challenges, the client requires a centralized BI Report that provides visibility into critical business metrics and supports data-driven decision-making. The primary goals are to improve overall profitability, enhance delivery efficiency, and optimize customer satisfaction by tracking and acting on key performance indicators (KPIs).
 
 ## OBJECTIVE 
 To Understand the business, data, its competitors and develop an Advanced level Business Intelligence report, where client can get all the useful and actionable insights about their business. Identify and analyzed financial, operational, and strategic KPIs.
