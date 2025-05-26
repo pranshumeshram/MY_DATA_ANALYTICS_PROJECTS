@@ -37,8 +37,6 @@
 
 ## WORK DONE IN THIS PROJECT
 
-- In this project, I was responsible for the full end-to-end data analytics and dashboard development process. My contributions included:
-
 - Performed Exploratory Data Analysis (EDA) to understand patterns, trends, and detect outliers in the raw data
 
 - Conducted data cleaning and normalization to handle missing values, remove inconsistencies, and standardize the dataset
