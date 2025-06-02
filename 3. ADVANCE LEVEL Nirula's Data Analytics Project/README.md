@@ -51,7 +51,7 @@
 
 - Designed and developed an interactive Power BI dashboard with filters, drill-downs, Bookmarks, Buttons and visuals for financial and operational analysis
 
-## DATA MODELING - STAR SCHEMA 
+## DATA MODELING
 ![Nirula's Data Modeling](https://github.com/pranshumeshram/MY_DATA_ANALYTICS_PROJECTS/blob/main/Projects_Images/9.jpg)
 
 ## TOOLS USED
